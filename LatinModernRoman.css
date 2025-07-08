@@ -22,3 +22,15 @@
   font-weight: 700;
   font-style: italic;
 }
+@font-face {
+  font-family: "Latin Modern Roman 10pt";
+  src: url("https://prakashdiana.github.io/fonts/lmromanslant10-regular.otf");
+  font-weight: 400;
+  font-style: oblique;
+}
+@font-face {
+  font-family: "Latin Modern Roman 10pt";
+  src: url("https://prakashdiana.github.io/fonts/lmromanslant10-bold.otf");
+  font-weight: 700;
+  font-style: oblique;
+}
