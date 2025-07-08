@@ -10,3 +10,15 @@
   font-weight: 400;
   font-style: italic;
 }
+@font-face {
+  font-family: "Latin Modern Roman 10pt";
+  src: url("https://prakashdiana.github.io/fonts/lmroman10-bold.otf");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Latin Modern Roman 10pt";
+  src: url("https://prakashdiana.github.io/fonts/lmroman10-bolditalic.otf");
+  font-weight: 700;
+  font-style: italic;
+}
