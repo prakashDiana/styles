@@ -13,3 +13,19 @@
   font-style: normal;
   font-display: swap;
 }
+
+@font-face {
+  font-family: "Nunito";
+  src: url("https://prakashdiana.github.io/fonts/Nunito/Nunito-Italic.ttf");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("https://prakashdiana.github.io/fonts/Nunito/Nunito-BoldItalic.ttf");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
