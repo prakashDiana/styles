@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Nunito";
-  src: url("https://prakashdiana.github.io/fonts/Nunito/Nunito-Regular.ttf");
+  src: url("https://prakashdiana.github.io/fonts/Nunito/Nunito-Regular.ttf") format("opentype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("https://prakashdiana.github.io/fonts/Nunito/Nunito-Bold.ttf");
+  src: url("https://prakashdiana.github.io/fonts/Nunito/Nunito-Bold.ttf") format("opentype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("https://prakashdiana.github.io/fonts/Nunito/Nunito-Italic.ttf");
+  src: url("https://prakashdiana.github.io/fonts/Nunito/Nunito-Italic.ttf") format("opentype");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("https://prakashdiana.github.io/fonts/Nunito/Nunito-BoldItalic.ttf");
+  src: url("https://prakashdiana.github.io/fonts/Nunito/Nunito-BoldItalic.ttf") format("opentype");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
